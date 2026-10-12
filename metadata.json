@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Maintenance Hub",
+  "description": "ระบบบริหารจัดการและแจ้งซ่อมโรงแรมครบวงจร เชื่อมต่อ Google Sheets, Gmail รายงานประจำวัน, LINE Notify และระบบตรวจรับงาน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
