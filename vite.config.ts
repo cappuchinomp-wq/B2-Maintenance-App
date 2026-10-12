@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/B2-Maintenance-App/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
